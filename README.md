@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/kiryl-turau-abb022177/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
  </div>
  <div id="header" align="center">
  <h1>
@@ -15,3 +18,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :telescope: I’m working as a Data Engineer.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KTurau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiryl-turau-abb022177/)
