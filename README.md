@@ -15,7 +15,7 @@ I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width
 
 - :telescope: I’m a Data Professional excited about engineering
 
-- :seedling: :zap: [STASIS & RATIONING or DYNAMISM & GROWTH (this is an easy choice. we know what we want, we just have to get busy)](https://github.com/EbookFoundation/free-programming-books) 
+- :seedling: :zap: [**STASIS & RATIONING or DYNAMISM & GROWTH** (this is an easy choice. we know what we want, we just have to **get busy**)](https://github.com/EbookFoundation/free-programming-books) 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KTurau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiryl-turau-abb022177/)
 
