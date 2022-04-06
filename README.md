@@ -11,7 +11,6 @@
 ---
 
 ### :man_technologist: About Me :
-I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk
 
 - :telescope: I’m a Data Professional excited about engineering
 
