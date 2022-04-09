@@ -12,9 +12,9 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m a Data Professional excited about engineering
+- :zap: I’m a Data Professional excited about engineering
 
-- :seedling: :zap: [**STASIS & RATIONING or DYNAMISM & GROWTH** (this is an easy choice. we know what we want, we just have to **get busy**)](https://github.com/EbookFoundation/free-programming-books) 
+- :seedling: [**STASIS & RATIONING or DYNAMISM & GROWTH** (---easy choice. we know what we want, we just have to **get busy**)](https://github.com/EbookFoundation/free-programming-books) 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KTurau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiryl-turau-abb022177/)
 
